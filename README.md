@@ -1,21 +1,4 @@
 # PolyLib2025 - Hệ thống Quản lý Thư viện
-
-## Giới thiệu
-
-PolyLib2025 là một ứng dụng quản lý thư viện hiện đại, được phát triển bằng Expo. Hệ thống hỗ trợ nhiều nhóm người dùng khác nhau với các chức năng phù hợp.
-
-## Cài đặt
-
-1. Cài đặt các gói phụ thuộc:
-   ```bash
-   npm install
-   ```
-
-2. Khởi động ứng dụng:
-   ```bash
-   npx expo start
-   ```
-
 ## Giao diện người dùng
 
 ### Đăng nhập và Đăng ký
@@ -113,3 +96,19 @@ Bạn có thể bắt đầu phát triển bằng cách chỉnh sửa các tệp
 Để tìm hiểu thêm về phát triển dự án với Expo, hãy tham khảo:
 - [Tài liệu Expo](https://docs.expo.dev/)
 - [Hướng dẫn Learn Expo](https://docs.expo.dev/tutorial/introduction/)
+
+- ## Giới thiệu
+
+PolyLib2025 là một ứng dụng quản lý thư viện hiện đại, được phát triển bằng Expo. Hệ thống hỗ trợ nhiều nhóm người dùng khác nhau với các chức năng phù hợp.
+
+## Cài đặt
+
+1. Cài đặt các gói phụ thuộc:
+   ```bash
+   npm install
+   ```
+
+2. Khởi động ứng dụng:
+   ```bash
+   npx expo start
+   ```
