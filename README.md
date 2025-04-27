@@ -20,26 +20,76 @@ PolyLib2025 là một ứng dụng quản lý thư viện hiện đại, đượ
 
 ### Đăng nhập và Đăng ký
 
-- **DangNhap.png**: Giao diện đăng nhập cho tất cả người dùng.
-- **DangKy.png**: Giao diện đăng ký tài khoản mới.
+<table>
+  <tr>
+    <td width="50%"><b>Đăng nhập</b><br/>Giao diện đăng nhập cho tất cả người dùng</td>
+    <td width="50%"><b>Đăng ký</b><br/>Giao diện đăng ký tài khoản mới</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/60bc2664-99f7-4d2b-87ac-ed46e8a7c1ea" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/203f4e35-07d2-441a-bd52-0ee24972027d" width="300"/></td>
+  </tr>
+</table>
 
 ### Giao diện người dùng thông thường (User)
 
-- **TrangChu.png**: Màn hình chính hiển thị các tài liệu mới, phổ biến và đề xuất.
-- **ThongBao.png**: Hiển thị các thông báo về trạng thái đăng ký, mượn sách và các thông tin khác.
-- **QuanLyPhieuDangKy(User).png**: Cho phép người dùng quản lý các phiếu đăng ký mượn tài liệu.
-- **QuanLyPhieuMuon:Tra.png**: Hiển thị các phiếu mượn hiện tại và lịch sử trả tài liệu.
-- **ThongTin.png**: Hiển thị và cho phép cập nhật thông tin cá nhân của người dùng.
+<table>
+  <tr>
+    <td width="33%"><b>Màn hình chính</b><br/>Hiển thị tài liệu mới, phổ biến và đề xuất</td>
+    <td width="33%"><b>Thông báo</b><br/>Hiển thị thông báo về trạng thái đăng ký, mượn sách</td>
+    <td width="33%"><b>Phiếu đăng ký</b><br/>Quản lý phiếu đăng ký mượn tài liệu</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7802e6d8-60ae-42cf-b094-05f0be7a3f1d" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6a9d2028-7d2f-4852-bd94-0504f717fb83" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/81c852bf-7470-42c1-b4c1-786a9c37916b" width="250"/></td>
+  </tr>
+  <tr>
+    <td width="33%"><b>Phiếu mượn</b><br/>Hiển thị phiếu mượn hiện tại và lịch sử</td>
+    <td width="33%"><b>Thông tin cá nhân</b><br/>Hiển thị và cập nhật thông tin người dùng</td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/65bfb725-7c32-41b2-ac6d-2d61d540a897" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/200c584e-32e4-4fea-af3d-2aa1ffcb9eed" width="250"/></td>
+    <td></td>
+  </tr>
+</table>
 
 ### Giao diện quản trị (Admin và Nhân viên)
 
-- **QuanLySanPham.png**: Quản lý tất cả các tài liệu trong thư viện (sách, tạp chí, đĩa CD/DVD, v.v.).
-- **QuanLyDanhMuc.png**: Quản lý các danh mục, thể loại của tài liệu.
-- **QuanLyTaiKhoan.png**: Quản lý tài khoản người dùng, phân quyền và thông tin.
-- **QuanLyPhieuDangKy.png**: Xử lý các yêu cầu đăng ký mượn từ người dùng.
-- **QuanLyPhieuMuon.png**: Quản lý các phiếu mượn hiện tại.
-- **PhieuTra.png**: Xử lý việc trả tài liệu từ người dùng.
-- **ThongKe.png**: Hiển thị báo cáo thống kê về hoạt động thư viện, tài liệu phổ biến, v.v.
+<table>
+  <tr>
+    <td width="33%"><b>Quản lý tài liệu</b><br/>Quản lý tất cả tài liệu trong thư viện</td>
+    <td width="33%"><b>Quản lý danh mục</b><br/>Quản lý các danh mục, thể loại tài liệu</td>
+    <td width="33%"><b>Quản lý người dùng</b><br/>Quản lý tài khoản và phân quyền</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/eeac6da9-41aa-4afa-89c9-30f69295e2da" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d2f5ba2f-87c3-43fd-b29d-573f26d5ef01" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/33b0727e-9fd0-4d50-9470-4f3ceea25866" width="250"/></td>
+  </tr>
+  <tr>
+    <td width="33%"><b>Xử lý đăng ký</b><br/>Xử lý yêu cầu đăng ký mượn</td>
+    <td width="33%"><b>Quản lý phiếu mượn</b><br/>Quản lý phiếu mượn hiện tại</td>
+    <td width="33%"><b>Quản lý phiếu trả</b><br/>Quản lý các phiếu trả</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d6395da4-05f6-47db-9c96-a99eb765f70d" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/351250bb-ffed-471c-b1d9-bb4d698ed5ee" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/76e09e3e-1113-478f-a1c8-daa22416d0cf" width="250"/></td>
+  </tr>
+  <tr>
+    <td width="33%"><b>Báo cáo thống kê</b><br/>Hiển thị báo cáo về hoạt động thư viện</td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3df38f77-fc0e-4a5d-8189-805372c007f9" width="250"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Quy trình sử dụng
 
@@ -56,53 +106,10 @@ PolyLib2025 là một ứng dụng quản lý thư viện hiện đại, đượ
 - File-based routing
 - UI/UX hiện đại và thân thiện người dùng
 
-# Welcome to your Expo app 👋
+## Hướng dẫn phát triển
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bạn có thể bắt đầu phát triển bằng cách chỉnh sửa các tệp trong thư mục **app**. Dự án này sử dụng [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Để tìm hiểu thêm về phát triển dự án với Expo, hãy tham khảo:
+- [Tài liệu Expo](https://docs.expo.dev/)
+- [Hướng dẫn Learn Expo](https://docs.expo.dev/tutorial/introduction/)
