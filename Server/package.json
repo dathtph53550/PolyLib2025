@@ -1,19 +1,25 @@
 {
-  "name": "buoi1",
+  "name": "polylib-server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Server backend cho POLYLIB2025",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "dotenv": "^16.4.7",
+    "expo-server-sdk": "^3.15.0",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
   }
 }
