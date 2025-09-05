@@ -19,8 +19,8 @@ const userSchema = new db.mongoose.Schema({
 userSchema.methods.generateAuthToken = async function() {
   const user = this;
   const token = jwt.sign(
-    { _id: user._id, username: user.username, role: user.role },
-    process.env.TOKEN_SEC_KEY
+  { _id: user._id, username: user.username, role: user.role },
+  process.env.TOKEN_SEC_KEY || 'JBASDH958VVHA34JSDJBF'
   );
   user.token = token;
   await user.save();
